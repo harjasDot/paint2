@@ -1,5 +1,5 @@
 Make();
-let Rang=['white','cyan','purple','orange']
+let Rang=['white','cyan','purple','orange','green','red','yellow']
 let pos=0;
 let gate=0;
 function Make(){
@@ -46,5 +46,17 @@ function g3(){
 }
 function g4(){
     pos='3'
+    
+}
+function g5(){
+    pos='4'
+    
+}
+function g6(){
+    pos='5'
+    
+}
+function g7(){
+    pos='6'
     
 }
